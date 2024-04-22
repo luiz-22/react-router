@@ -1,0 +1,13 @@
+.nav li {
+  display: inline;
+  margin-right: 1rem;
+}
+
+.nav li :hover {
+  color: red;
+}
+
+.active {
+  color: red;
+  font-weight: bold;
+}

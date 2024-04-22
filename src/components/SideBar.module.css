@@ -1,0 +1,16 @@
+.sideBar {
+    flex: 0 0 18rem;
+    overflow-y: scroll;
+    font-size: 14px;
+    padding: 0.5rem 1.8rem 1rem;
+}
+
+.article {
+    padding-left: 1rem;
+}
+
+/* @media (max-width: 1024px) {
+    .sideBar {
+        display: none;
+    }
+} */
