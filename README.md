@@ -1,4 +1,4 @@
-# React Router - Practica
+<h1 align="center">React Router - Practica</h1>
 
 ```js
 import './App.css'
