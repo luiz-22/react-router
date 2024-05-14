@@ -1,4 +1,6 @@
-<h1 align="center">React Router - Práctica</h1>
+<h1 align="center">React Router</h1>
+
+Práctica con React Router.
 
 ```js
 import './App.css'
