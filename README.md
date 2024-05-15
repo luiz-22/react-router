@@ -2,6 +2,12 @@
 
 Práctica con React Router.
 
+## Temas
+
+- Rutas básicas
+- Rutas con parámetros
+- Rutas secundarias
+
 ```js
 import './App.css'
 import { BrowserRouter, Routes, Route } from "react-router-dom"
