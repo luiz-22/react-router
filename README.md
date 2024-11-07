@@ -1,6 +1,6 @@
 <h1 align="center">React Router</h1>
 
-Práctica con React Router.
+Conceptos básicos de React Router.
 
 ## Temas
 
@@ -45,11 +45,13 @@ function App() {
 export default App
 ```
 
-## Instalar y ejecutar
+## Instalar
 
 ```bash
 npm i
 ```
+
+## Ejecutar
 
 ```bash
 npm run dev
