@@ -1,4 +1,4 @@
-<h1 align="center">React Router</h1>
+# React Router
 
 Conceptos básicos de React Router.
 
