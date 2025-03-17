@@ -2,7 +2,7 @@
 
 Conceptos básicos de React Router.
 
-## Temas
+## 📖 Temas
 
 - Rutas básicas
 - Rutas con parámetros
@@ -45,14 +45,9 @@ function App() {
 export default App
 ```
 
-## Instalar
+## 🔧 Instalación y ejecución
 
 ```bash
 npm i
-```
-
-## Ejecutar
-
-```bash
 npm run dev
 ```
